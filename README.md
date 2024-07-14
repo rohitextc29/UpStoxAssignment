@@ -1,1 +1,1 @@
-This is sample assignment for Upstox.
+This is sample assignment for Upstox. The root layout is in app/index.tsx
